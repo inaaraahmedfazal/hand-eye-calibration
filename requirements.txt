@@ -1,0 +1,7 @@
+pyside6
+numpy
+scikit-surgerycore
+vtk
+scikit-surgerynditracker
+opencv-python
+opencv-contrib-python
